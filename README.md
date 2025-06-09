@@ -1,17 +1,38 @@
-## CQ CQ CQ 👋! This is YiQiu~
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&width=500&lines=CQ CQ CQ 👋 This is YiQiu~" alt="动态标题" />
+</div>
 
 ---
 
-#### 📫 How to reach me:
-  - QQ: 1557016637
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&duration=5000&pause=1000&center=true&width=500&lines=%F0%9F%8E%B9%F0%9F%8E%B6%F0%96%A7%B7%EF%BD%A1.%E2%81%BA+%F0%9F%8E%B5%F0%96%A7%B7%EF%BD%A1.%E2%81%BA+%F0%9F%8E%B9%F0%9F%8E%B5%F0%96%A7%B7%EF%BD%A1.%E2%81%BA+" alt="Typing SVG" />
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrplogoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
+---
+
+### 📈 Statistics
+<div align="center">
+  <img height="165" 
+    src="https://github.com/YiQiuAcc/YiQiuAcc/blob/main/images/stat.svg"
+    alt="YiQiu WakaTime Activity"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiQiuAcc&layout=compact&theme=radical" />
 </div>
 
-<div align="left">
-<img src="https://github.com/user-attachments/assets/d3c39179-201a-4f27-b535-5ee982615a4b" height=25 width=25 style="vertical-align:middle;">
-<label style="font-size:20px;">My Statistics:</label>
-</div>
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:yiqiu2333@outlook.com">
+    <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=1557016637&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/QQ-D14836?logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🏆 Recent Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=YiQiuAcc&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **YiQiuAcc/YiQiuAcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
