@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&width=500&lines=CQ CQ CQ 👋 This is YiQiu~" alt="动态标题" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&width=435&lines=CQ+CQ+CQ+%F0%9F%91%8B+This+is+YiQiu~" alt="Typing SVG" /></a>
 </div>
 
 ---
