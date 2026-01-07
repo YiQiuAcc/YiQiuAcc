@@ -13,7 +13,7 @@
 ### 📊 Activities since 2024
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YiQiu&title_color=00FFFF&text_color=CCCCCC&icon_color=FF6B6B&border_color=2D4059&bg_color=282C35&hide_border=false&border_radius=8&show_icons=true&langs_count=10" alt="Wakatime Stats" width="60%"/> | 
+  <img align="center" src="https://github-readme-stats1-git-main-yiqius-projects-7e447237.vercel.app/api/wakatime?username=YiQiu&title_color=00FFFF&text_color=CCCCCC&icon_color=FF6B6B&border_color=2D4059&bg_color=282C35&hide_border=false&border_radius=8&show_icons=true&langs_count=10" alt="Wakatime Stats" width="60%"/> | 
   <img align="center" src="https://github-readme-stats-three-sigma-u5txcyk68s.vercel.app/api/top-langs/?username=YiQiuAcc&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
 </div>
 
