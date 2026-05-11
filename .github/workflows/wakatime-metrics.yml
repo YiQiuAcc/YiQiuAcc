@@ -1,0 +1,44 @@
+name: WakaTime Metrics
+
+on:
+  # 每周一 00:00 自动更新一次数据
+  schedule: [{ cron: "0 0 * * 1" }]
+  # 允许手动点击运行
+  workflow_dispatch:
+  # 代码推送到主分支时更新
+  push: { branches: ["master", "main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Asia/HongKong
+          base: ""
+          
+          # 风格与主题配置
+          theme: dark
+          config_padding: 8%
+          extras_css: |
+            :root {
+              --color-header-title: #A78BFA;
+              --color-text: #E2E8F0;
+              --color-calendar-graph-day-L1-bg: #38BDF8;
+              --color-calendar-graph-day-L2-bg: #818CF8;
+              --color-calendar-graph-day-L3-bg: #A78BFA;
+              --color-calendar-graph-day-L4-bg: #C084FC;
+            }
+            .background { fill: #0F172A !important; }
+            .border { stroke: #1E1B4B !important; rx: 12px !important; }
+            
+          # WakaTime 插件配置
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: "all_time"
+          plugin_wakatime_limit: 8
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
