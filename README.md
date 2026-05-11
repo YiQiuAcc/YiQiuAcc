@@ -46,8 +46,7 @@ I'm a versatile developer passionate about building robust full-stack architectu
   <p><strong>Frontend, Cross-Platform & Graphics</strong></p>
   <img src="https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs&logoColor=38BDF8" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/WebGPU-0F172A?style=flat-square&logo=webgl&logoColor=38BDF8" alt="WebGPU" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WebGPU-0F172A?style=flat-square&logo=webgl&logoColor=38BDF8" alt="WebGL" />
 </div>
 
 ---
