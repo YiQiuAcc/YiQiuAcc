@@ -17,16 +17,22 @@ I'm a performance-driven full-stack & systems developer passionate about buildin
 ---
 
 ### 📊 GitHub & Code Activities
-<table border="0">
+
+<table border="0" width="100%" align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-vercel-kappa.vercel.app/api/wakatime?username=YiQiu&range=last_30_days&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&bg_color=0d1117&hide_border=true&langs_count=6&show_icons=true" alt="WakaTime Stats" />
+    <td width="50%" valign="middle">
+      <div align="center">
+        <img src="https://github-readme-stats-vercel-kappa.vercel.app/api/wakatime?username=YiQiu&range=last_30_days&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&bg_color=0d1117&hide_border=true&langs_count=6&show_icons=true" alt="WakaTime Stats" />
+      </div>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats-three-sigma-u5txcyk68s.vercel.app/api/top-langs/?username=YiQiuAcc&layout=compact&border_color=1E1B4B&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&icon_color=38BDF8&border_radius=12" alt="Most Used Languages" />
+    <td width="50%" valign="middle">
+      <div align="center">
+        <img src="https://github-readme-stats-three-sigma-u5txcyk68s.vercel.app/api/top-langs/?username=YiQiuAcc&layout=compact&border_color=1E1B4B&bg_color=0F172A&title_color=A78BFA&text_color=E2E8F0&icon_color=38BDF8&border_radius=12" alt="Most Used Languages" />
+      </div>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🛠️ Tech Stack & Arsenal
@@ -68,9 +74,10 @@ I'm a performance-driven full-stack & systems developer passionate about buildin
   <a href="mailto:styiqiu@outlook.com">
     <img src="https://img.shields.io/badge/styiqiu@outlook.com-0F172A?style=flat-square&logo=microsoftoutlook&logoColor=A78BFA&label=Email&labelColor=1E1B4B" alt="Email" />
   </a>
-  <br />
-  <div align="center" style="font-size: 12px; font-style: italic; color: #818CF8; opacity: 0.5; line-height: 1.8;">
-    <p>泣いて 笑った 心の中</p>
-    <p>この幸せ 守るため 怖くない</p>
+  <br/>
+  <br/>
+  <div align="center" style="font-size: 11px; font-weight: normal; color: #4b5563; line-height: 1.8;">
+    <p style="margin: 0;">泣いて 笑った 心の中</p>
+    <p style="margin: 4px 0 0 0;">この幸せ 守るため 怖くない</p>
   </div>
 </div>
